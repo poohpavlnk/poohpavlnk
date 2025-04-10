@@ -1,10 +1,10 @@
-<--!
+<!--
 <div align="center">
 <img src="https://github.com/theveloper-pl/theveloper-pl/blob/main/22657b8a577f858827c5d46dac32cf53.gif" align="center" height="" width="600" />
 </div>  
   !-->
 
-### <div align="center">I'm Mateusz, a full-time software engineer 👨‍💻 living in Poland 🚀</div>  
+### <div align="center">I'm Danylo, a full-time software engineer 👨‍💻 living in Ukraine 🚀</div>  
   
 
 - 🌱 As always I'm working on becoming better version of myself 
